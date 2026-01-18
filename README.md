@@ -1,12 +1,12 @@
 
-# Tokyo Olympics Data Analytics | Azure End-To-End Data Engineering Project 
+# Tokyo Olympics Data Analytics Project 
 
 
 
 ## Description
 This project provides a data engineering and anlytical journey on the Tokyo Olympic dataset. Starting with a CSV on GitHub, the data is ingested into the Azure ecosystem via Azure Data Factory. It's initially stored in Azure Data Lake Storage Gen2, then transformed in Azure Databricks. The enriched data, once again housed in ADLS Gen2, undergoes advanced analytics in Azure Synapse. The insights are finally visualized in Azure Synapse or Power BI, offering a comprehensive view of the dataset.
 ## Architecture 
-<img src="[Images/Architecture.png]">
+<img src="Images/Architecture.png">
 
 ## Dataset Used 
 This contains the details of over 11,000 athletes, with 47 disciplines, along with 743 Teams taking part in the 2021(2020) Tokyo Olympics.
@@ -71,4 +71,4 @@ You can aslo use PowerBI to generate your analysis reports.
  <img src="Images/synapse_analytics_report.png">
 
 Refer to the SQL scripts used for data analysis 
-[Tokyo Olympics SQL script.sql](https://github.com/sanjeelb/Olympic-Data-Analytics/blob/main/Tokyo%20Olympics%20SQL%20script.sql)
+[Tokyo Olympics SQL script.sql](https://github.com/shubhammirajkar/tokyo_olympic_de_project/blob/main/Tokyo%20Olympics%20SQL%20script.sql](https://github.com/sanjeelb/Olympic-Data-Analytics/blob/main/Tokyo%20Olympics%20SQL%20script.sql)

@@ -71,4 +71,4 @@ You can aslo use PowerBI to generate your analysis reports.
  <img src="Images/synapse_analytics_report.png">
 
 Refer to the SQL scripts used for data analysis 
-[Tokyo Olympics SQL script.sql](https://github.com/shubhammirajkar/tokyo_olympic_de_project/blob/main/Tokyo%20Olympics%20SQL%20script.sql](https://github.com/sanjeelb/Olympic-Data-Analytics/blob/main/Tokyo%20Olympics%20SQL%20script.sql)
+[Tokyo Olympics SQL script.sql](https://github.com/sanjeelb/Olympic-Data-Analytics/blob/main/Tokyo%20Olympics%20SQL%20script.sql)
